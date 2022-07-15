@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@iamprospa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mlcaesar)](https://twitter.com/iamprospa) [![Linkedin Badge](https://img.shields.io/badge/-pasabouk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-asabouk-1678b787/)[![Mail Badge](https://img.shields.io/badge/-mlcaesar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:prosperasabouk@pasuccessit.com)
+[![Twitter Badge](https://img.shields.io/badge/-@iamprospa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mlcaesar)](https://twitter.com/iamprospa) [![Linkedin Badge](https://img.shields.io/badge/-pasabouk-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-asabouk-1678b787/)[![Mail Badge](https://img.shields.io/badge/-prosperasabouk-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:prosperasabouk@pasuccessit.com)
 
 
 - 🤔 Turning known unknowns to knowns!
