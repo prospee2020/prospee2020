@@ -15,6 +15,7 @@
 - 🤔 Turning known unknowns to knowns!
 - 😄 Excited about: Cloud technology 
 - ⚡ Ambitious Goals: Training the next generation of IT Engineeers!
+- 🧑‍💻 Jack of all trades, Master of none
 <br />
 
 ### Langueages, Tools and Platforms:
